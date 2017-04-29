@@ -1,6 +1,10 @@
 ---
 layout: default
-title: Dipanjan's Blog
+title: An Introduction to this Blog
 ---
 
-Keep watching this space for more!
+#An Introduction to this Blog
+
+>######word of the day:
+>**euneirophrenia**
+>A peaceful state of mind following a pleasant dream 
